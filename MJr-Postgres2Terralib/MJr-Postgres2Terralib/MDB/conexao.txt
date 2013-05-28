@@ -1,0 +1,2 @@
+connMDB.Open "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=" & App.Path & "\MDB\TERRALIB20.mdb;Persist Security Info=True"
+   
